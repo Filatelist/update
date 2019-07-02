@@ -1,0 +1,127 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Skyscraper",
+      "year": 2018,
+      "format": "DVD",
+      "cast": [
+        "Dwain Jonson",
+        "Pablo Shreiber",
+        "Niwe Kamble",
+        "Noe Taylor"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Rocky",
+      "year": 1975,
+      "format": "VHS",
+      "cast": [
+        "Silvester Stalone",
+        "Polly",
+        "Adrian",
+        "Apollo Creed"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lethal weapon",
+      "year": 1988,
+      "format": "Blue-Ray",
+      "cast": [
+        "Clay Crawford",
+        "Daymon Veyans",
+        "Shawn Williams"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Wolf from wall street",
+      "year": 2013,
+      "format": "VHS",
+      "cast": [
+        "Leonardo d`Caprio",
+        "Jordan Bellford",
+        "Vartin Skorsesse"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Escape from the Shawshank",
+      "year": 1994,
+      "format": "DVD",
+      "cast": [
+        "Tim Robins",
+        "Morgan Freeman",
+        "Bob Hannton"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Green mile",
+      "year": 2000,
+      "format": "Blu-Ray",
+      "cast": [
+        "Tom Hanks",
+        "David Mor`s",
+        "Michael Clark Duncan"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Law abiding citizen",
+      "year": 2009,
+      "format": "VHS",
+      "cast": [
+        "Jamie Foxx",
+        "Gerard Butler",
+        "Colm Mini",
+        "Bruse McGill"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Leon",
+      "year": 1994,
+      "format": "DVD",
+      "cast": [
+        "Jean Renault",
+        "Gary Oldman",
+        "Natalie Portman"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "5th Element",
+      "year": 2013,
+      "format": "VHS",
+      "cast": [
+        "Bruse Willis",
+        "Millia Jovovich",
+        "Gary Oldman"
+      ]
+    },
+    {
+      "title": "Armageddon",
+      "year": "2012",
+      "format": "DVD",
+      "cast": [
+        "Julia Benson",
+        " Cemeron Bright"
+      ],
+      "id": 10
+    },
+    {
+      "title": "Imported from txt",
+      "year": 2019,
+      "format": "VHS",
+      "cast": [
+        "Leonardo d`Caprio",
+        "Jordan Bellford",
+        "Vartin Skorsesse"
+      ],
+      "id": 11
+    }
+  ]
+}

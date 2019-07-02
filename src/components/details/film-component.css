@@ -1,0 +1,11 @@
+.border{
+    border: 1px lightgray solid;
+    border-left: 2px grey solid;
+}
+.right {
+    width: 600px;
+}
+.margin{
+    margin-top: 50px;
+    margin-left: 20px;
+}
