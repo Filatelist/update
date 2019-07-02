@@ -1,8 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## Install json-server
+# `npm install -g json-server`
+## film.txt
+the file for testing film importing 
+##Only in directroy demo-server!
+### `json-server db.json --port 3001`
+starts the json server in which the list of our films is stored.
 
 ### `npm start`
 
